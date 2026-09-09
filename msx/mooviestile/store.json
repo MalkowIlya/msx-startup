@@ -91,19 +91,6 @@
          },
          "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
          "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/tvru.json"
-      },
-      {
-         "badge": "MSX CC UA",
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "MSX CC UA Portal",
-               "text": "Запуск web приложений"
-            }
-         },
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/msx_cc_ua.json"
       }
    ]
 }

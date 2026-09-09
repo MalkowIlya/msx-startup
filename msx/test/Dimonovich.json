@@ -33,23 +33,6 @@
    },
    "items": [
       {
-         "titleHeader": "{col:msx-white}Плейлист ТВ ",
-         "selection": {
-            "important": true,
-            "background": "https://bogatyr.club/uploads/posts/2023-06/1686919676_bogatyr-club-p-belie-abstraktnie-oboi-foni-vkontakte-15.jpg",
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "Плейлист ТВ",
-               "text": "Подборка плейлистов iptv различных провайдеров из интернета"
-            }
-         },
-         "image": "https://obrii.com.ua/wp-content/uploads/2023/12/xt-kopyya-768x768.jpg.pagespeed.ic.qICsbJyexQ.jpg",
-         "action": "content:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://github.com/Dimonovich/TV/raw/Dimonovich/FREE/TV",
-         "properties": {
-            "image:extension": "| {col:msx-white}First Item"
-         }
-      },
-      {
          "titleHeader": "{col:msx-white}Фильмы HD ",
          "selection": {
             "important": true,
