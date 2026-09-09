@@ -138,24 +138,6 @@
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"
          }
-      },
-      {
-         "titleHeader": "{col:msx-white}MSX CC UA портал",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "headline": "MSX CC UA портал",
-               "text": "MSX CC UA портал. Запуск web приложений"
-            }
-         },
-         "playerLabel": "MSX CC UA портал",
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
-         "action": "content:http://msx.cc.ua/msx/start.json",
-         "properties": {
-            "trigger:back": "player:stop",
-            "image:extension": "| {col:msx-white}Sixth Item"
-         }
       }
    ]
 }
