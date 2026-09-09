@@ -1,9 +1,9 @@
 {
    "name": "Детское ТВ",
    "version": "1.0.0",
-   "background": "https://malkowilya.github.io/msx/img/bg.jpg",
+   "background": "https://malkowilya.github.io/img/bg.jpg",
    "headline": "Детское ТВ",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "menu": [
       {
          "type": "separator"
@@ -12,7 +12,7 @@
          "image": "https://mults.info/img/collection.png",
          "label": "Каналы",
          "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://malkowilya.github.io/msx/multiki/pl/kids.m3u"
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://malkowilya.github.io/multiki/pl/kids.m3u"
       },
       {
          "type": "separator"

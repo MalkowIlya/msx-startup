@@ -2,7 +2,7 @@
    "headline": "Песни Нашего Времени",
    "type": "list",
    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m089KDtxfLfVdca5pR3pCkUHpQvGfq51PiVj0R0bOaIQ=s160-c-k-c0x00ffffff-no-rj",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {

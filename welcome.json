@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "headline": "МУЛЬТИКИ",
    "transparent": 2,
    "preload": "next",
@@ -67,17 +67,17 @@
          "titleHeader": "{col:msx-white}МУЛЬТИКИ",
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Здесь собрали для вас коллекцию мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!  Бесплатно посмотреть мультфильмы онлайн, а также скачать мультики для просмотра на компьютере или телевизоре: https://mults.info/ ",
-         "backdrop": "https://malkowilya.github.io/msx/img/bg_logo.png",
-         "image": "https://malkowilya.github.io/msx/img/bg_logo.png",
-         "action": "content: https://malkowilya.github.io/msx/multiki/multfilmy.json"
+         "backdrop": "https://malkowilya.github.io/img/bg_logo.png",
+         "image": "https://malkowilya.github.io/img/bg_logo.png",
+         "action": "content: https://malkowilya.github.io/multiki/multfilmy.json"
       },
       {
          "titleHeader": "{col:msx-white}ТОМ и ДЖЕРРИ",
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Том и Джерри онлайн бесплатно: https://tom-dzherri.net. Ввсе серии замечательного и всеми любимого мультфильма Том и Джерри. Просмотр доступен всем без исключения и абсолютно бесплатно. На сайте собраны практически все серии мультика с русским переводом. ",
-         "backdrop": "https://malkowilya.github.io/msx/img/splash.png",
-         "image": "https://malkowilya.github.io/msx/img/splash.png",
-         "action": "content: https://malkowilya.github.io/msx/tom_jerry/tom_jerry.json"
+         "backdrop": "https://malkowilya.github.io/img/splash.png",
+         "image": "https://malkowilya.github.io/img/splash.png",
+         "action": "content: https://malkowilya.github.io/tom_jerry/tom_jerry.json"
       }
    ]
 }

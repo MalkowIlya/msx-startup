@@ -31,7 +31,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/gold_live.jpg",
+               "image": "http://malkowilya.github.io/tema/gold_live.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos2.mp4",
                "controlTransparent": "true",
                "properties": {
@@ -52,7 +52,7 @@
                "data": {
                   "name": "GOLD",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu-gold_live.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu-gold_live.json",
                   "welcome": "none"
                }
             },
@@ -63,7 +63,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/aqua.jpg",
+               "image": "http://malkowilya.github.io/tema/aqua.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos4.mp4",
                "playerLabel": "Atmospheric Background 2",
                "controlTransparent": "true",
@@ -86,7 +86,7 @@
                "data": {
                   "name": "AQUA",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu_aqua.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu_aqua.json",
                   "welcome": "none"
                }
             },
@@ -97,7 +97,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/rain.jpg",
+               "image": "http://malkowilya.github.io/tema/rain.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos6.mp4",
                "playerLabel": "Atmospheric Background 2",
                "controlTransparent": "true",
@@ -120,7 +120,7 @@
                "data": {
                   "name": "RAIN",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu_rain.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu_rain.json",
                   "welcome": "none"
                }
             }
@@ -136,7 +136,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/materia.jpg",
+               "image": "http://malkowilya.github.io/tema/materia.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos3.mp4",
                "playerLabel": "MATERIA",
                "controlTransparent": "true",
@@ -159,7 +159,7 @@
                "data": {
                   "name": "MATERIA",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu_materia.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu_materia.json",
                   "welcome": "none"
                }
             },
@@ -170,7 +170,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/ocean.jpg",
+               "image": "http://malkowilya.github.io/tema/ocean.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos5.mp4",
                "playerLabel": "OCEAN",
                "controlTransparent": "true",
@@ -193,7 +193,7 @@
                "data": {
                   "name": "OCEAN",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu_ocean.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu_ocean.json",
                   "welcome": "none"
                }
             },
@@ -204,7 +204,7 @@
                "imageHeight": 2.3,
                "imageFiller": "cover",
                "wrapperColor": "red",
-               "image": "http://malkowilya.github.io/msx/tema/atmopheric.jpg",
+               "image": "http://malkowilya.github.io/tema/atmopheric.jpg",
                "action": "video:auto:plugin:http://msx.benzac.de/plugins/background.html?url=http://msx.benzac.de/media/atmos1.mp4",
                "playerLabel": "Atmospheric",
                "controlTransparent": "true",
@@ -227,7 +227,7 @@
                "data": {
                   "name": "Atmospheric",
                   "version": "1.0.0",
-                  "parameter": "content:https://malkowilya.github.io/msx/tema/live_tems/menu_atmospheric.json",
+                  "parameter": "content:https://malkowilya.github.io/tema/live_tems/menu_atmospheric.json",
                   "welcome": "none"
                }
             }

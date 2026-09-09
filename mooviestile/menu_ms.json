@@ -1,7 +1,7 @@
 {
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
-   "logo": "https://malkowilya.github.io/msx/logo/mss.png",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
+   "logo": "https://malkowilya.github.io/logo/mss.png",
    "headline": "",
    "menu": [
       {
@@ -10,27 +10,27 @@
       {
          "icon": "menu",
          "label": "Все приложения",
-         "data": "https://malkowilya.github.io/msx/mooviestile/all.json"
+         "data": "https://malkowilya.github.io/mooviestile/all.json"
       },
       {
          "icon": "live-tv",
          "label": "IPTV приложения",
-         "data": "https://malkowilya.github.io/msx/mooviestile/iptv.json"
+         "data": "https://malkowilya.github.io/mooviestile/iptv.json"
       },
       {
          "icon": "movie",
          "label": "Бесплатное кино",
-         "data": "https://malkowilya.github.io/msx/mooviestile/free_kino.json"
+         "data": "https://malkowilya.github.io/mooviestile/free_kino.json"
       },
       {
          "icon": "movie-filter",
          "label": "Всё кино",
-         "data": "https://malkowilya.github.io/msx/mooviestile/full_kino.json"
+         "data": "https://malkowilya.github.io/mooviestile/full_kino.json"
       },
       {
          "icon": "devices-other",
          "label": "Другие медиплатформы",
-         "data": "https://malkowilya.github.io/msx/mooviestile/social.json"
+         "data": "https://malkowilya.github.io/mooviestile/social.json"
       },
       {
          "type": "separator"
@@ -38,7 +38,7 @@
       {
          "icon": "dvr",
          "label": "Альтернативные стартовые параметры",
-         "data": "https://malkowilya.github.io/msx/mooviestile/store.json"
+         "data": "https://malkowilya.github.io/mooviestile/store.json"
       },
       {
          "type": "separator"
@@ -46,7 +46,7 @@
       {
          "icon": "wallpaper",
          "label": "Тема",
-         "data": "https://malkowilya.github.io/msx/tema/panel_tems.json"
+         "data": "https://malkowilya.github.io/tema/panel_tems.json"
       },
       {
          "type": "separator"

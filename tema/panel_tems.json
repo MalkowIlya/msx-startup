@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "Темы WALS_msx",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -33,11 +33,11 @@
    "items": [
       {
          "label": "Выбрать статическую тему интерфейса",
-         "action": "content:https://malkowilya.github.io/msx/setting_emo.json"
+         "action": "content:https://malkowilya.github.io/setting_emo.json"
       },
       {
          "label": "Выбрать динамическую тему интерфейса",
-         "action": "content:https://malkowilya.github.io/msx/setting_live.json"
+         "action": "content:https://malkowilya.github.io/setting_live.json"
       }
    ]
 }

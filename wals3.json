@@ -42,7 +42,7 @@
                "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. Тестовый плейлист для ознакомления с функциями плеера."
             }
          },
-         "image": "https://malkowilya.github.io/msx/drm/logo.png",
+         "image": "https://malkowilya.github.io/drm/logo.png",
          "action": "link:http://ott.drm-play.com",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
@@ -58,7 +58,7 @@
                "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки."
             }
          },
-         "image": "https://malkowilya.github.io/msx/foss/icon.png",
+         "image": "https://malkowilya.github.io/foss/icon.png",
          "action": "link:http://ott.prog4food.eu.org/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -74,7 +74,7 @@
                "text": "IPTV player. Возможность просмотра своих плейлистов,сталкер-порталов,медиатек. Сохранение, перенос настроек"
             }
          },
-         "image": "https://malkowilya.github.io/msx/ott-play/icon.png",
+         "image": "https://malkowilya.github.io/ott-play/icon.png",
          "action": "link:http://ott-play.com/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
@@ -90,7 +90,7 @@
                "text": "{col:msx-white}IPTV player от разработчиков LAMPA. Возможность просмотра своих плейлистов."
             }
          },
-         "image": "https://malkowilya.github.io/msx/icva/logo.png",
+         "image": "https://malkowilya.github.io/icva/logo.png",
          "action": "link:http://icva.mx/",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
@@ -106,7 +106,7 @@
                "text": "{col:msx-white}Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/lampa/logo.png",
+         "image": "https://malkowilya.github.io/lampa/logo.png",
          "action": "link:http://lampa.mx",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
@@ -122,7 +122,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/vokino/logo.png",
+         "image": "https://malkowilya.github.io/vokino/logo.png",
          "action": "link: http://web.vokino.tv/",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -138,7 +138,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/atodo/logo.png",
+         "image": "https://malkowilya.github.io/atodo/logo.png",
          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
          "properties": {
             "image:extension": "| {col:msx-white}Seventh Item"
@@ -154,7 +154,7 @@
                "text": "{col:msx-white}Web версия приложения ATODO. Просмотр различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/atodo/logo.png",
+         "image": "https://malkowilya.github.io/atodo/logo.png",
          "action": "link:http://msx.atodo.fun/",
          "properties": {
             "image:extension": "| {col:msx-white}Eighth Item"
@@ -170,7 +170,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций"
             }
          },
-         "image": "https://malkowilya.github.io/msx/moovies/logo.png",
+         "image": "https://malkowilya.github.io/moovies/logo.png",
          "action": "menu:request:interaction:init@http://moovies.uz/index.html",
          "properties": {
             "image:extension": "| {col:msx-white}Ninth Item"
@@ -202,7 +202,7 @@
                "text": "{col:msx-white}Bеб-браузер, адаптированный для просмотра специальных интернет-страниц с автоматически обновляемыми плейлистами, предоставляет возможность прямо с браузера смотреть фильмы, ТВ-каналы, слушать музыку, радиостанции"
             }
          },
-         "image": "https://malkowilya.github.io/msx/fork/logo.png",
+         "image": "https://malkowilya.github.io/fork/logo.png",
          "action": "link:http://browser.appfxml.com/",
          "properties": {
             "image:extension": "| {col:msx-white}Eleventh Item"
@@ -218,7 +218,7 @@
                "text": "{col:msx-white}Oнлайн-кинотеатр с фильмами и сериалами по подписке Яндекс Плюс или за отдельную плату."
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinopoisk/logo.png",
+         "image": "https://malkowilya.github.io/kinopoisk/logo.png",
          "action": "link:https://smarttv-app.ott.yandex.ru/",
          "properties": {
             "image:extension": "| {col:msx-white}Twelfth Item"
@@ -234,7 +234,7 @@
                "text": "{col:msx-white}Pоссийский онлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/rutube/logo.png",
+         "image": "https://malkowilya.github.io/rutube/logo.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/",
          "properties": {
             "image:extension": "| {col:msx-white}13th Item"
@@ -282,7 +282,7 @@
                "text": "{col:msx-white}российская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
             }
          },
-         "image": "https://malkowilya.github.io/msx/smotrim/icon.png",
+         "image": "https://malkowilya.github.io/smotrim/icon.png",
          "action": "link:https://tv.smotrim.ru",
          "properties": {
             "image:extension": "| {col:msx-white}16th Item"
@@ -298,7 +298,7 @@
                "text": "{col:msx-white}Oнлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/youtube/logo.png",
+         "image": "https://malkowilya.github.io/youtube/logo.png",
          "action": "link:https://www.youtube.com/tv#/",
          "properties": {
             "image:extension": "| {col:msx-white}17th Item"
@@ -314,7 +314,7 @@
                "text": "{col:msx-white}Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей."
             }
          },
-         "image": "https://malkowilya.github.io/msx//youtube_kids/logo.png",
+         "image": "https://malkowilya.github.io//youtube_kids/logo.png",
          "action": "link:https://www.youtube.com/tv/kids",
          "properties": {
             "image:extension": "| {col:msx-white}18th Item"
@@ -330,8 +330,8 @@
                "text": "{col:msx-white}Смотрим мультфильмы онлайн. Коллекция мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/multiki/logo.png",
-         "action": "content:https://malkowilya.github.io/msx/welcome.json",
+         "image": "https://malkowilya.github.io/multiki/logo.png",
+         "action": "content:https://malkowilya.github.io/welcome.json",
          "properties": {
             "image:extension": "| {col:msx-white}19th Item"
          }
@@ -346,7 +346,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов."
             }
          },
-         "image": "https://malkowilya.github.io/msx/deeplex/logo.png",
+         "image": "https://malkowilya.github.io/deeplex/logo.png",
          "action": "link:http://smart.deeplex.cc/",
          "properties": {
             "image:extension": "| {col:msx-white}20th Item"
@@ -362,7 +362,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка"
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinopub/logo.png",
+         "image": "https://malkowilya.github.io/kinopub/logo.png",
          "action": "link:http://kpms.cc/bootstrap.html",
          "properties": {
             "image:extension": "| {col:msx-white}21st Item"
@@ -376,10 +376,10 @@
             "data": {
                "headline": "X-SMART TV",
                "text": "{col:msx-white}Цифровая медиа платформа XSMART — это интернет каталог в виде приложения, где собрана информация о фильмах и сериалах, актерах и режиссерах. Вся информация в каталоге взята из открытых источников и предоставляются исключительно в ознакомительных целях.",
-               "image": "https://malkowilya.github.io/msx/xsmart/capture.gif"
+               "image": "https://malkowilya.github.io/xsmart/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/xsmart/logo.png",
+         "image": "https://malkowilya.github.io/xsmart/logo.png",
          "action": "link:http://app.xsmart.tv",
          "properties": {
             "image:extension": "| {col:msx-white}22nd Item"
@@ -395,7 +395,7 @@
                "text": "{col:msx-white}ИмперияBOOM представляет собой упорядоченные ссылки на медиа-контент: фильмы, сериалы, мультфильмы, IPTV, радио и т.п."
             }
          },
-         "image": "https://malkowilya.github.io/msx/imboom/logo.png",
+         "image": "https://malkowilya.github.io/imboom/logo.png",
          "action": "link:http://web.imboom.ru/",
          "properties": {
             "image:extension": "| {col:msx-white}23rd Item"
@@ -411,7 +411,7 @@
                "text": "{col:msx-white}Просмотр видео контента из многих источников. Поиск контента (фильмы, сериалы, мультфильмы, аниме, тв-передачи).Выбора качества. KBC каналы. VIP подписка на три устройства "
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinoboom/logo.png",
+         "image": "https://malkowilya.github.io/kinoboom/logo.png",
          "action": "execute:info:extended:http://kb-team.club/msx/enter.php",
          "properties": {
             "image:extension": "| {col:msx-white}24th Item"
@@ -475,8 +475,8 @@
                "text": "{col:msx-white}Медиа-контент из различных источников в интернете выложенный в свободный доступ. {col:yellow}Работает как работает!!! Работает пока работает!!!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/img/bonus.png",
-         "action": "content: https://malkowilya.github.io/msx/test/category.json",
+         "image": "https://malkowilya.github.io/img/bonus.png",
+         "action": "content: https://malkowilya.github.io/test/category.json",
          "properties": {
             "image:extension": "| {col:msx-white}28th Item"
          }
@@ -604,7 +604,7 @@
             }
          },
          "image": "",
-         "action": "content: https://malkowilya.github.io/msx/test/demo.json",
+         "action": "content: https://malkowilya.github.io/test/demo.json",
          "properties": {
             "image:extension": "| {col:msx-white}29th Item"
          }

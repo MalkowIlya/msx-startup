@@ -3,7 +3,7 @@
    "background": "https://static.tildacdn.com/tild6632-3233-4236-a166-613266623434/wallhaven-kw7pd7.png",
    "type": "list",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "headline": "Бесплатное кино",
    "transparent": 1,
    "preload": "next",
@@ -88,7 +88,7 @@
                "text": "Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampa.png",
+         "image": "https://malkowilya.github.io/logon/lampa.png",
          "action": "link:http://lampa.mx"
       },
       {
@@ -100,7 +100,7 @@
                "text": "Мод программы Лампа{br}Программа уже настроенная для он-лайн просмотра и просмотра iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/lampa_land/icon.png",
+         "image": "https://malkowilya.github.io/lampa_land/icon.png",
          "action": "link:http://lampa.land"
       },
       {
@@ -112,8 +112,8 @@
                "text": "Подборка приложения \"LAMPA\" с альтернативными адресами на случай \"падения\" оригинальной или для постоянного использования. {br} Воспользуйтесь сохранением и переносом настроек на сайте {col:msx-blue}cub.red {col}что-бы не настраивать приложение заново."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampset.png",
-         "action": "panel: https://malkowilya.github.io/msx/lampset/template.json",
+         "image": "https://malkowilya.github.io/logon/lampset.png",
+         "action": "panel: https://malkowilya.github.io/lampset/template.json",
          "properties": {
             "trigger:back": "player:stop"
          }
@@ -127,7 +127,7 @@
                "text": "Мод программы Лампа{br}c установленым магазином плагинов и другими «плюшками»"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/bylampa.png",
+         "image": "https://malkowilya.github.io/logon/bylampa.png",
          "action": "link:http://bylampa.online"
       },
       {
@@ -139,7 +139,7 @@
                "text": "Мод программы Лампа{br}В данный момент находиться в разработке и некоторые функции могут быть недоступны!!! Опубликованно только для ознакомления с программой!!!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/akter_black.png",
+         "image": "https://malkowilya.github.io/logon/akter_black.png",
          "action": "link:http://abvidaa.ru/"
       },
       {
@@ -151,8 +151,8 @@
                "text": "Мод программы Лампа{br}В данный момент находиться в разработке и некоторые функции могут быть недоступны!!!{br}Опубликованно только для ознакомления с программой!!!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/prisma.png",
-         "action": "panel: https://malkowilya.github.io/msx/prisma/template.json"
+         "image": "https://malkowilya.github.io/logon/prisma.png",
+         "action": "panel: https://malkowilya.github.io/prisma/template.json"
       },
       {
          "selection": {
@@ -163,7 +163,7 @@
                "text": "Настроенная для просмотра контента онлайн. Благодарим уважаемого Noname."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampaNN.png",
+         "image": "https://malkowilya.github.io/logon/lampaNN.png",
          "action": "link: http://lam.nnmtv.pw/"
       },
       {
@@ -175,7 +175,7 @@
                "text": "Настроенная программа Lampa lite «готовая к употреблению». Благодарим уважаемого Noname"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampa_lite.png",
+         "image": "https://malkowilya.github.io/logon/lampa_lite.png",
          "action": "link:http://lite.nnmtv.pw/"
       },
       {
@@ -187,7 +187,7 @@
                "text": "Мод программы Lampa бесплатными каналами IPTV и плагинами для просмотра медиаконтента онлайн. {br}Для просмотра необходимо ввести токен. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/UspehTVBot"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/uspeh2.png",
+         "image": "https://malkowilya.github.io/logon/uspeh2.png",
          "action": "link:http://uspeh.sbs"
       },
       {
@@ -199,7 +199,7 @@
                "text": "Ппрограмма Lampa с предустановленными плагинами для онлайн просмотра. Возможность добавления плагинов из магазина."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampa.png",
+         "image": "https://malkowilya.github.io/logon/lampa.png",
          "action": "link:http://lampa.byskaz.ru/"
       },
       {
@@ -235,7 +235,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/atodo.png",
+         "image": "https://malkowilya.github.io/logon/atodo.png",
          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
       {
@@ -247,7 +247,7 @@
                "text": "Web версия приложения ATODO. Просмотр различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/atodo.png",
+         "image": "https://malkowilya.github.io/logon/atodo.png",
          "action": "link:http://msx.atodo.fun/"
       },
       {
@@ -259,7 +259,7 @@
                "text": "Платный онлайн кинотеатр. Требуется регистрация. Есть пробный период. {br}Приложение на этапе разработки и может работать нестабильно или с ошибками. Опубликовано для ознакомления с программой"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tvoe.png",
+         "image": "https://malkowilya.github.io/logon/tvoe.png",
          "action": "link:https://tv-old.tvoe.live"
       },
       {
@@ -271,7 +271,7 @@
                "text": "Портал MOVIELAB на базе Media Station X. Просмотр видео контента on-line"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/movielab.png",
+         "image": "https://malkowilya.github.io/logon/movielab.png",
          "action": "menu:https://movielab.fun/msx/menu.json"
       },
       {
@@ -283,7 +283,7 @@
                "text": "Bеб-браузер, адаптированный для просмотра специальных интернет-страниц с автоматически обновляемыми плейлистами, предоставляет возможность прямо с браузера смотреть фильмы, ТВ-каналы, слушать музыку, радиостанции"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/fork_com.png",
+         "image": "https://malkowilya.github.io/logon/fork_com.png",
          "action": "link:http://browser.appfxml.com/"
       },
       {
@@ -295,7 +295,7 @@
                "text": "Онлайн кинотеатр. Фильмы, мультфильмы и сериалы в отличном качестве. {br}{col:gold}Требуется регистрация и аккаунт VIP | PRO"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/filmix.png",
+         "image": "https://malkowilya.github.io/logon/filmix.png",
          "action": "link:http://filmix.tv/"
       },
       {
@@ -307,7 +307,7 @@
                "text": "Oнлайн-кинотеатр с фильмами и сериалами по подписке Яндекс Плюс или за отдельную плату."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopoisk.png",
+         "image": "https://malkowilya.github.io/logon/kinopoisk.png",
          "action": "link:https://smarttv-app.ott.yandex.ru/"
       },
       {
@@ -319,7 +319,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopub.png",
+         "image": "https://malkowilya.github.io/logon/kinopub.png",
          "action": "link:http://kpms.cc/bootstrap.html"
       },
       {
@@ -331,7 +331,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка.{br}Если предидущий не запустился попробуйте запустить этот"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopub_green.png",
+         "image": "https://malkowilya.github.io/logon/kinopub_green.png",
          "action": "link:https://cdnservices.link"
       },
       {
@@ -341,10 +341,10 @@
             "data": {
                "headline": "X-SMART TV",
                "text": "Цифровая медиа платформа XSMART — это интернет каталог в виде приложения, где собрана информация о фильмах и сериалах, актерах и режиссерах. Вся информация в каталоге взята из открытых источников и предоставляются исключительно в ознакомительных целях.",
-               "image": "https://malkowilya.github.io/msx/xsmart/capture.gif"
+               "image": "https://malkowilya.github.io/xsmart/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/xsmart.png",
+         "image": "https://malkowilya.github.io/logon/xsmart.png",
          "action": "link:http://app.xsmart.tv"
       },
       {
@@ -356,7 +356,7 @@
                "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/deeplex.png",
+         "image": "https://malkowilya.github.io/logon/deeplex.png",
          "action": "link:http://smart.deeplex.cc/"
       },
       {
@@ -368,7 +368,7 @@
                "text": "ИмперияBOOM представляет собой упорядоченные ссылки на медиа-контент: фильмы, сериалы, мультфильмы, IPTV, радио и т.п."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/impire_boom.png",
+         "image": "https://malkowilya.github.io/logon/impire_boom.png",
          "action": "link:http://web.imboom.ru/"
       },
       {
@@ -380,7 +380,7 @@
                "text": "Просмотр видео контента из многих источников. Поиск контента (фильмы, сериалы, мультфильмы, аниме, тв-передачи).Выбора качества. KBC каналы. VIP подписка на три устройства "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinoboom.png",
+         "image": "https://malkowilya.github.io/logon/kinoboom.png",
          "action": "execute:info:extended:http://kb-team.club/msx/enter.php"
       },
       {
@@ -392,7 +392,7 @@
                "text": " Фильмы и Мультфильмы. Крупнейшая база на любой вкус, обновляется ежедневно, новинки появляются сразу после премьеры в кинотеатре."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/getstv.png",
+         "image": "https://malkowilya.github.io/logon/getstv.png",
          "action": "panel:http://lg.getstv.ru/msx/msx.json"
       },
       {
@@ -404,7 +404,7 @@
                "text": " Онлайн кинотеатр (vPlay мод). Доступ к сервису за донат"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tutkino.jpg",
+         "image": "https://malkowilya.github.io/logon/tutkino.jpg",
          "action": "link:http://web.tutkino.fun/"
       },
       {
@@ -416,7 +416,7 @@
                "text": " Онлайн кинотеатр (Lampa_lite мод). Доступ к сервису за донат"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tutkinolite.jpg",
+         "image": "https://malkowilya.github.io/logon/tutkinolite.jpg",
          "action": "link:http://lite.tutkino.fun/"
       },
       {
@@ -428,7 +428,7 @@
                "text": "Только WebOS. Нужна подписка{br}Оригинальные сериалы, тысячи фильмов и более 180 ТВ-каналов. Удобный интерфейс, одновременный просмотр на 5 устройствах, система рекомендаций и детский профиль с безопасным контентом. Добро пожаловать в мир захватывающих историй!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kion.png",
+         "image": "https://malkowilya.github.io/logon/kion.png",
          "action": "link:https://kion.ru/EPG/smarttvlg/index.html"
       },
       {
@@ -440,7 +440,7 @@
                "text": "Только WebOS. Нужна подписка{br}Смотрите фильмы, сериалы, мультфильмы, ТВ-каналы и спортивные трансляции. Ежедневное обновление каталога, популярные новинки и классика кино — всё в одном месте."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/okko.png",
+         "image": "https://malkowilya.github.io/logon/okko.png",
          "action": "link:http://lge.okko.tv"
       }
    ]

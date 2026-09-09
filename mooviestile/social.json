@@ -1,6 +1,6 @@
 {
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "compress": true,
    "background": "https://avatars.mds.yandex.net/i?id=0f4482ade857ac04ef96f506c2d942f565809093-5557812-images-thumbs&n=13",
    "type": "list",
@@ -77,7 +77,7 @@
                "text": "Pоссийский онлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/rutube.png",
+         "image": "https://malkowilya.github.io/logon/rutube.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
@@ -89,7 +89,7 @@
                "text": "«Яндекс Видео» — сервис поиск по видеороликам от Яндекса с возможностью просмотра большинства найденных роликов на странице результатов поиска. Поиск производится на сторонних видеохостингах и новостных интернет-ресурсах."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/yandex.png",
+         "image": "https://malkowilya.github.io/logon/yandex.png",
          "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp"
       },
       {
@@ -101,7 +101,7 @@
                "text": "Только WebOS{col}{br}Hеофициальное приложение для webOS"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tiktok.png",
+         "image": "https://malkowilya.github.io/logon/tiktok.png",
          "action": "link:https://tv.tiktok.com/webos"
       },
       {
@@ -113,8 +113,8 @@
                "text": "Шоу любимых блогеров, свежие фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/vk.png",
-         "action": "panel:https://malkowilya.github.io/msx/vkvideo/vk_template.json"
+         "image": "https://malkowilya.github.io/logon/vk.png",
+         "action": "panel:https://malkowilya.github.io/vkvideo/vk_template.json"
       },
       {
          "selection": {
@@ -125,7 +125,7 @@
                "text": "Pоссийская государственная мультимедийная онлайн-платформа, разработанная крупнейшим государственным медиахолдингом «ВГТРК»"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/smotrim.png",
+         "image": "https://malkowilya.github.io/logon/smotrim.png",
          "action": "link:https://tv.smotrim.ru"
       },
       {
@@ -137,7 +137,7 @@
                "text": "Oнлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/youtube.png",
+         "image": "https://malkowilya.github.io/logon/youtube.png",
          "action": "link:https://www.youtube.com/tv#/"
       },
       {
@@ -149,7 +149,7 @@
                "text": "Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей."
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/ytkids.png",
+         "image": "https://malkowilya.github.io/logon/ytkids.png",
          "action": "link:https://www.youtube.com/tv/kids"
       },
       {

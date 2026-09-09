@@ -2,9 +2,9 @@
    "headline": "Выбор темы WALS_MSX",
    "type": "list",
    "version": "2.5.0",
-   "parameter": "content: http://malkowilya.github.io/msx/setting_emo.json",
+   "parameter": "content: http://malkowilya.github.io/setting_emo.json",
    "action": "[settings:validate_links:0|home]",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "preload": "next",
    "overlay": {
@@ -57,15 +57,15 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Основная тема {col}{br}Основная тема без фонового изображения",
-               "image": "https://malkowilya.github.io/msx/tema/lite.jpg"
+               "image": "https://malkowilya.github.io/tema/lite.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/tema/them_icon/lite.png",
+         "image": "https://malkowilya.github.io/tema/them_icon/lite.png",
          "action": "start",
          "data": {
             "name": "BASIC",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/menu.json",
+            "parameter": "content:https://malkowilya.github.io/menu.json",
             "welcome": "none"
          }
       },
@@ -78,15 +78,15 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}CLASSIC{col}{br}Классическая оболочка MSX",
-               "image": "https://malkowilya.github.io/msx/tema/classic.jpg"
+               "image": "https://malkowilya.github.io/tema/classic.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/tema/them_icon/classic.png",
+         "image": "https://malkowilya.github.io/tema/them_icon/classic.png",
          "action": "start",
          "data": {
             "name": "CLASSIC",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/menu_classic.json",
+            "parameter": "content:https://malkowilya.github.io/menu_classic.json",
             "welcome": "none"
          }
       },
@@ -99,15 +99,15 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}CLASSIC compact{col}{br}Классическая оболочка MSX, компактный вид",
-               "image": "https://malkowilya.github.io/msx/tema/classic_compact.jpg"
+               "image": "https://malkowilya.github.io/tema/classic_compact.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/tema/them_icon/classic_compact.png",
+         "image": "https://malkowilya.github.io/tema/them_icon/classic_compact.png",
          "action": "start",
          "data": {
             "name": "CLASSIC",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/menu_classic_compact.json",
+            "parameter": "content:https://malkowilya.github.io/menu_classic_compact.json",
             "welcome": "none"
          }
       },
@@ -120,7 +120,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Тема «ЗИМА»{col}{br}Зимняя тема оформления",
-               "image": "https://malkowilya.github.io/msx/tema/зима.png"
+               "image": "https://malkowilya.github.io/tema/зима.png"
             }
          },
          "image": "https://github.com/wals09/msx/blob/main/tema/them_icon/зима.png?raw=true",
@@ -128,7 +128,7 @@
          "data": {
             "name": "BASIC Lite",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/зима.json",
+            "parameter": "content:https://malkowilya.github.io/зима.json",
             "welcome": "none"
          }
       },
@@ -141,15 +141,15 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Тема «WHITE»{col}{br}Тема в светлых тонах",
-               "image": "https://malkowilya.github.io/msx/tema/wite.jpg"
+               "image": "https://malkowilya.github.io/tema/wite.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/tema/them_icon/white.png",
+         "image": "https://malkowilya.github.io/tema/them_icon/white.png",
          "action": "start",
          "data": {
             "name": "BASIC Lite",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/menu_white.json",
+            "parameter": "content:https://malkowilya.github.io/menu_white.json",
             "welcome": "none"
          }
       },
@@ -162,15 +162,15 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Тема «ОСЕНЬ»",
-               "image": "https://malkowilya.github.io/msx/tema/осень.png"
+               "image": "https://malkowilya.github.io/tema/осень.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/tema/them_icon/осень.png",
+         "image": "https://malkowilya.github.io/tema/them_icon/осень.png",
          "action": "start",
          "data": {
             "name": "BASIC Lite",
             "version": "1.0.0",
-            "parameter": "content:https://malkowilya.github.io/msx/осень.json",
+            "parameter": "content:https://malkowilya.github.io/осень.json",
             "welcome": "none"
          }
       }

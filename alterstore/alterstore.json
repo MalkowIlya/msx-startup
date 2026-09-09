@@ -2,9 +2,9 @@
    "headline": "AlterSTORE",
    "type": "list",
    "version": "2.5.0",
-   "parameter": "content: http://malkowilya.github.io/msx/setting_emo.json",
+   "parameter": "content: http://malkowilya.github.io/setting_emo.json",
    "action": "[settings:validate_links:0|home]",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "preload": "next",
    "overlay": {
@@ -78,7 +78,7 @@
             }
          },
          "playerLabel": "MSXPlayer V4",
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
+         "image": "https://malkowilya.github.io/alterstore/msx-icon.png",
          "action": "menu:request:interaction:json:eyJoYW5kbGVySWQiOiJzdG9yZSIsInJlcXVlc3QiOiJtZW51In0=@http://v4.msxplayer.ru/plugins/interactions/msxplayer/index.html",
          "properties": {
             "trigger:back": "player:stop",
@@ -150,7 +150,7 @@
             }
          },
          "playerLabel": "MSX CC UA портал",
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
+         "image": "https://malkowilya.github.io/alterstore/msx-icon.png",
          "action": "content:http://msx.cc.ua/msx/start.json",
          "properties": {
             "trigger:back": "player:stop",

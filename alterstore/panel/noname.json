@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "NoName портал",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {

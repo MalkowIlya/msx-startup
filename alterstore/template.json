@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "AlterSTORE",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -36,47 +36,47 @@
          "titleHeader": "Launchcer",
          "type": "button",
          "image": "https://msx.appfxml.com/msx/appfxmlstore_m.png",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/appfxml.json"
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/appfxml.json"
       },
       {
          "badge": "MSXPlayer - V4",
          "titleHeader": "Launchcer",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/msxplayer_v4.json"
+         "image": "https://malkowilya.github.io/alterstore/msx-icon.png",
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/msxplayer_v4.json"
       },
       {
          "badge": "NoName{br}",
          "titleHeader": "Launchcer",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://malkowilya.github.io/msx/logo/noname.jpg",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/noname _launch.json"
+         "image": "https://malkowilya.github.io/logo/noname.jpg",
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/noname _launch.json"
       },
       {
          "badge": "NoName ",
          "titleHeader": "Portal",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://malkowilya.github.io/msx/logo/noname.jpg",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/noname.json"
+         "image": "https://malkowilya.github.io/logo/noname.jpg",
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/noname.json"
       },
       {
          "badge": "TV RU",
          "titleHeader": "Portal",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://malkowilya.github.io/msx/logo/noname.jpg",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/tvru.json"
+         "image": "https://malkowilya.github.io/logo/noname.jpg",
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/tvru.json"
       },
       {
          "badge": "MSX CC UA",
          "titleHeader": "Portal",
          "type": "button",
          "iconSize": "medium",
-         "image": "https://malkowilya.github.io/msx/alterstore/msx-icon.png",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/panel/msx_cc_ua.json"
+         "image": "https://malkowilya.github.io/alterstore/msx-icon.png",
+         "action": "panel:https://malkowilya.github.io/alterstore/panel/msx_cc_ua.json"
       }
    ]
 }

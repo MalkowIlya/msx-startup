@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "VK video",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -35,13 +35,13 @@
       {
          "badge": "{col:white}LG WebOS",
          "badgeColor": "msx-blue",
-         "image": "https://malkowilya.github.io/msx/logon/vk.png",
+         "image": "https://malkowilya.github.io/logon/vk.png",
          "action": "link: https://vk.ru/tv-app/lib?version=1.3.13&platform=webos"
       },
       {
          "badge": "{col:white}Vidaa",
          "badgeColor": "msx-green",
-         "image": "https://malkowilya.github.io/msx/logon/vk.png",
+         "image": "https://malkowilya.github.io/logon/vk.png",
          "action": "link:  https://vk.ru/tv-app/lib?version=latest&platform=vidaa"
       }
    ]

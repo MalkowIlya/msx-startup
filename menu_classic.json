@@ -1,7 +1,7 @@
 {
    "type": "list",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -34,7 +34,7 @@
       {
          "title": "Тема оформления",
          "color": "transparent",
-         "image": "https://malkowilya.github.io/msx/logon/tema.png",
+         "image": "https://malkowilya.github.io/logon/tema.png",
          "selection": {
             "important": true,
             "action": "update:content:underlay:text",
@@ -42,7 +42,7 @@
                "headline": "{col:msx-white}Выбор темы оформления WALS_MSX"
             }
          },
-         "action": "panel:https://malkowilya.github.io/msx/tema/panel_tems.json",
+         "action": "panel:https://malkowilya.github.io/tema/panel_tems.json",
          "properties": {
             "trigger:back": "player:stop"
          }
@@ -57,7 +57,7 @@
                "headline": "IPTV плеер"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/drm.png",
+         "image": "https://malkowilya.github.io/logon/drm.png",
          "action": "link:http://ott.drm-play.com",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
@@ -72,7 +72,7 @@
                "headline": "IPTV плеер "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/foss.png",
+         "image": "https://malkowilya.github.io/logon/foss.png",
          "action": "link:http://ott.prog4food.eu.org/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -87,7 +87,7 @@
                "headline": "IPTV плеер "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/ott-play.png",
+         "image": "https://malkowilya.github.io/logon/ott-play.png",
          "action": "link:http://ott-play.com/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
@@ -102,7 +102,7 @@
                "headline": "IPTV player от разработчиков LAMPA"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon//icva.png",
+         "image": "https://malkowilya.github.io/logon//icva.png",
          "action": "link:http://icva.mx/",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
@@ -117,7 +117,7 @@
                "headline": "IPTV плеер "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/ottplayer.png",
+         "image": "https://malkowilya.github.io/logon/ottplayer.png",
          "action": "link:http://widget.ottplayer.tv",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -132,7 +132,7 @@
                "headline": "IPTV плеер "
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/one_player.png",
+         "image": "https://malkowilya.github.io/logon/one_player.png",
          "action": "link:http://webos.oneplayer.me",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -147,7 +147,7 @@
                "headline": "Приложение-каталог. Oнлайн, торрент, iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampa.png",
+         "image": "https://malkowilya.github.io/logon/lampa.png",
          "action": "link:http://lampa.mx",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
@@ -162,7 +162,7 @@
                "headline": "Мод программы Лампа. Oнлайн, торрент, iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/akter_black.png",
+         "image": "https://malkowilya.github.io/logon/akter_black.png",
          "action": "link:http://abvidaa.ru/",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -177,8 +177,8 @@
                "headline": "Мод программы Лампа. Oнлайн, торрент, iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/prisma.png",
-         "action": "panel: https://malkowilya.github.io/msx/prisma/template.json",
+         "image": "https://malkowilya.github.io/logon/prisma.png",
+         "action": "panel: https://malkowilya.github.io/prisma/template.json",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
          }
@@ -192,7 +192,7 @@
                "headline": "Oнлайн, торрент, iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/bylampa.png",
+         "image": "https://malkowilya.github.io/logon/bylampa.png",
          "action": "link:http://bylampa.online",
          "properties": {
             "image:extension": "| {col:msx-white}27th Item"
@@ -207,8 +207,8 @@
                "headline": "Приложения \"LAMPA\" с альтернативными адресами"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampset.png",
-         "action": "panel: https://malkowilya.github.io/msx/lampset/template.json",
+         "image": "https://malkowilya.github.io/logon/lampset.png",
+         "action": "panel: https://malkowilya.github.io/lampset/template.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -223,7 +223,7 @@
                "headline": "Мод программы Lampa"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/uspeh2.png",
+         "image": "https://malkowilya.github.io/logon/uspeh2.png",
          "action": "link:http://uspeh.sbs",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -238,7 +238,7 @@
                "headline": "Lampa NoName"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampaNN.png",
+         "image": "https://malkowilya.github.io/logon/lampaNN.png",
          "action": "link: http://lam.nnmtv.pw/"
       },
       {
@@ -250,7 +250,7 @@
                "headline": "Lampa lite {col:yellow}|{col} NoName"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/lampa_lite.png",
+         "image": "https://malkowilya.github.io/logon/lampa_lite.png",
          "action": "link:http://lite.nnmtv.pw/"
       },
       {
@@ -289,7 +289,7 @@
                "headline": "Фильмы, сериалы, аниме, просмотр торрентов"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/atodo.png",
+         "image": "https://malkowilya.github.io/logon/atodo.png",
          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
          "properties": {
             "image:extension": "| {col:msx-white}Seventh Item"
@@ -304,7 +304,7 @@
                "headline": "Web версия приложения ATODO"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/atodo.png",
+         "image": "https://malkowilya.github.io/logon/atodo.png",
          "action": "link:http://msx.atodo.fun/",
          "properties": {
             "image:extension": "| {col:msx-white}Eighth Item"
@@ -334,7 +334,7 @@
                "headline": "Платный онлайн кинотеатр.(⚠️ТЕСТ⚠️)"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tvoe.png",
+         "image": "https://malkowilya.github.io/logon/tvoe.png",
          "action": "link:https://tv-old.tvoe.live",
          "properties": {
             "image:extension": "| {col:msx-white}17th Item"
@@ -349,7 +349,7 @@
                "headline": "MOVIELAB на базе Media Station X. Online"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/movielab.png",
+         "image": "https://malkowilya.github.io/logon/movielab.png",
          "action": "menu:https://movielab.fun/msx/menu.json",
          "properties": {
             "image:extension": "| {col:msx-white}Tenth Item"
@@ -364,7 +364,7 @@
                "headline": "Bеб-браузер, адаптированный для просмотра медиа"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/fork_com.png",
+         "image": "https://malkowilya.github.io/logon/fork_com.png",
          "action": "link:http://browser.appfxml.com/",
          "properties": {
             "image:extension": "| {col:msx-white}Eleventh Item"
@@ -379,7 +379,7 @@
                "headline": "Онлайн кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/filmix.png",
+         "image": "https://malkowilya.github.io/logon/filmix.png",
          "action": "link:http://filmix.tv/",
          "properties": {
             "image:extension": "| {col:msx-white}Eleventh Item"
@@ -394,7 +394,7 @@
                "headline": "Oнлайн-кинотеатр по подписке Яндекс Плюс"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopoisk.png",
+         "image": "https://malkowilya.github.io/logon/kinopoisk.png",
          "action": "link:https://smarttv-app.ott.yandex.ru/",
          "properties": {
             "image:extension": "| {col:msx-white}Twelfth Item"
@@ -409,7 +409,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/deeplex.png",
+         "image": "https://malkowilya.github.io/logon/deeplex.png",
          "action": "link:http://smart.deeplex.cc/",
          "properties": {
             "image:extension": "| {col:msx-white}20th Item"
@@ -424,7 +424,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopub.png",
+         "image": "https://malkowilya.github.io/logon/kinopub.png",
          "action": "link:http://kpms.cc/bootstrap.html",
          "properties": {
             "image:extension": "| {col:msx-white}21st Item"
@@ -439,7 +439,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinopub_green.png",
+         "image": "https://malkowilya.github.io/logon/kinopub_green.png",
          "action": "link:https://cdnservices.link",
          "properties": {
             "image:extension": "| {col:msx-white}21st Item"
@@ -454,7 +454,7 @@
                "headline": "Oнлайн-кинотеатр, нужна регистрация"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/xsmart.png",
+         "image": "https://malkowilya.github.io/logon/xsmart.png",
          "action": "link:http://app.xsmart.tv",
          "properties": {
             "image:extension": "| {col:msx-white}22nd Item"
@@ -469,7 +469,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/impire_boom.png",
+         "image": "https://malkowilya.github.io/logon/impire_boom.png",
          "action": "link:http://web.imboom.ru/",
          "properties": {
             "image:extension": "| {col:msx-white}23rd Item"
@@ -484,7 +484,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kinoboom.png",
+         "image": "https://malkowilya.github.io/logon/kinoboom.png",
          "action": "execute:info:extended:http://kb-team.club/msx/enter.php",
          "properties": {
             "image:extension": "| {col:msx-white}24th Item"
@@ -499,7 +499,7 @@
                "headline": "Oнлайн-кинотеатр за донат. (vPlay мод)"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tutkino.jpg",
+         "image": "https://malkowilya.github.io/logon/tutkino.jpg",
          "action": "link:http://web.tutkino.fun/",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -514,7 +514,7 @@
                "headline": "Oнлайн-кинотеатр за донат. (Lampa_lite мод)"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tutkinolite.jpg",
+         "image": "https://malkowilya.github.io/logon/tutkinolite.jpg",
          "action": "link:http://lite.tutkino.fun/",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -529,7 +529,7 @@
                "headline": "Oнлайн-кинотеатр, нужна регистрация"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/getstv.png",
+         "image": "https://malkowilya.github.io/logon/getstv.png",
          "action": "panel:http://lg.getstv.ru/msx/msx.json",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -544,7 +544,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/kion.png",
+         "image": "https://malkowilya.github.io/logon/kion.png",
          "action": "link:https://kion.ru/EPG/smarttvlg/index.html",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -559,7 +559,7 @@
                "headline": "Oнлайн-кинотеатр по подписке"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/okko.png",
+         "image": "https://malkowilya.github.io/logon/okko.png",
          "action": "link:http://lge.okko.tv",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -574,7 +574,7 @@
                "headline": "Онлайн-сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/rutube.png",
+         "image": "https://malkowilya.github.io/logon/rutube.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/",
          "properties": {
             "image:extension": "| {col:msx-white}13th Item"
@@ -589,7 +589,7 @@
                "headline": "Поиск по видеороликам от Яндекса"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/yandex.png",
+         "image": "https://malkowilya.github.io/logon/yandex.png",
          "action": "link:https://yandex.ru/video/tvapp/?ui=tvapp",
          "properties": {
             "image:extension": "| {col:msx-white}26th Item"
@@ -604,7 +604,7 @@
                "headline": "Hеофициальное приложение для webOS"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/tiktok.png",
+         "image": "https://malkowilya.github.io/logon/tiktok.png",
          "action": "link:https://tv.tiktok.com/webos",
          "properties": {
             "image:extension": "| {col:msx-white}14th Item"
@@ -619,8 +619,8 @@
                "headline": "Блогеры, фильмы, сериалы, телеканалы, мультфильмы и т.п"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/vk.png",
-         "action": "panel:https://malkowilya.github.io/msx/vkvideo/vk_template.json",
+         "image": "https://malkowilya.github.io/logon/vk.png",
+         "action": "panel:https://malkowilya.github.io/vkvideo/vk_template.json",
          "properties": {
             "image:extension": "| {col:msx-white}15th Item"
          }
@@ -634,7 +634,7 @@
                "headline": "Российская мультимедийная онлайн-платформа «ВГТРК»"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/smotrim.png",
+         "image": "https://malkowilya.github.io/logon/smotrim.png",
          "action": "link:https://tv.smotrim.ru",
          "properties": {
             "image:extension": "| {col:msx-white}16th Item"
@@ -649,7 +649,7 @@
                "headline": "Сервис для хостинга и просмотра видео"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/youtube.png",
+         "image": "https://malkowilya.github.io/logon/youtube.png",
          "action": "link:https://www.youtube.com/tv#/",
          "properties": {
             "image:extension": "| {col:msx-white}17th Item"
@@ -664,7 +664,7 @@
                "headline": "Версия видеохостинга Youtube для детей"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/ytkids.png",
+         "image": "https://malkowilya.github.io/logon/ytkids.png",
          "action": "link:https://www.youtube.com/tv/kids",
          "properties": {
             "image:extension": "| {col:msx-white}18th Item"
@@ -679,8 +679,8 @@
                "headline": "Смотрим мультфильмы онлайн"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/multiki.png",
-         "action": "content:https://malkowilya.github.io/msx/welcome.json",
+         "image": "https://malkowilya.github.io/logon/multiki.png",
+         "action": "content:https://malkowilya.github.io/welcome.json",
          "properties": {
             "image:extension": "| {col:msx-white}19th Item"
          }
@@ -694,8 +694,8 @@
                "headline": "IPTV каналы из интернета"
             }
          },
-         "image": "https://malkowilya.github.io/msx/logon/relax.png",
-         "action": "content: https://malkowilya.github.io/msx/bonus/relax.json",
+         "image": "https://malkowilya.github.io/logon/relax.png",
+         "action": "content: https://malkowilya.github.io/bonus/relax.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -728,7 +728,7 @@
             }
          },
          "image": "https://rileyjames.co.uk/wp-content/uploads/2019/07/Online-Store-Logo.jpg",
-         "action": "panel:https://malkowilya.github.io/msx/alterstore/template.json",
+         "action": "panel:https://malkowilya.github.io/alterstore/template.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}26th Item"

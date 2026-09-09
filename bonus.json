@@ -10,7 +10,7 @@
       {
          "label": "Так себе TV",
          "icon": "tv",
-          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://malkowilya.github.io/msx/bonus/bonus.m3u"
+          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://malkowilya.github.io/bonus/bonus.m3u"
        },
        {
          "label": "WORLD.TV",

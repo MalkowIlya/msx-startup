@@ -2,7 +2,7 @@
    "type": "list",
    "headline": "WALS_MSX 2.3",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -46,7 +46,7 @@
          },
          "color": "transparent",
          "image": "https://i.pinimg.com/originals/64/53/24/645324641a0555cc55cea87787fc0bcb.gif",
-         "action": "audio:https://malkowilya.github.io/msx/Fragile.mp3"
+         "action": "audio:https://malkowilya.github.io/Fragile.mp3"
       },
       {
          "focus": true,
@@ -75,7 +75,7 @@
                "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки."
             }
          },
-         "image": "https://malkowilya.github.io/msx/foss/ott-foss,с.png",
+         "image": "https://malkowilya.github.io/foss/ott-foss,с.png",
          "action": "link:http://ott.prog4food.eu.org/f/",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -108,7 +108,7 @@
                "text": "{col:msx-white}IPTV player от разработчиков LAMPA. Возможность просмотра своих плейлистов."
             }
          },
-         "image": "https://malkowilya.github.io/msx/icva/logo.png",
+         "image": "https://malkowilya.github.io/icva/logo.png",
          "action": "link:http://icva.mx/",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
@@ -156,7 +156,7 @@
                "text": "{col:msx-white}Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv"
             }
          },
-         "image": "https://malkowilya.github.io/msx/lampa/logo.png",
+         "image": "https://malkowilya.github.io/lampa/logo.png",
          "action": "link:http://lampa.mx",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
@@ -321,7 +321,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций"
             }
          },
-         "image": "https://malkowilya.github.io/msx/moovies/moovies.png",
+         "image": "https://malkowilya.github.io/moovies/moovies.png",
          "action": "menu:request:interaction:init@http://moovies.uz/index.html",
          "properties": {
             "image:extension": "| {col:msx-white}Ninth Item"
@@ -355,7 +355,7 @@
                "text": "{col:msx-white}Bеб-браузер, адаптированный для просмотра специальных интернет-страниц с автоматически обновляемыми плейлистами, предоставляет возможность прямо с браузера смотреть фильмы, ТВ-каналы, слушать музыку, радиостанции"
             }
          },
-         "image": "https://malkowilya.github.io/msx/fork/fork_com.png",
+         "image": "https://malkowilya.github.io/fork/fork_com.png",
          "action": "link:http://browser.appfxml.com/",
          "properties": {
             "image:extension": "| {col:msx-white}Eleventh Item"
@@ -403,7 +403,7 @@
                "text": "{col:msx-white}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка"
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinopub/logo.png",
+         "image": "https://malkowilya.github.io/kinopub/logo.png",
          "action": "link:http://kpms.cc/bootstrap.html",
          "properties": {
             "image:extension": "| {col:msx-white}21st Item"
@@ -433,7 +433,7 @@
             "data": {
                "headline": "X-SMART TV",
                "text": "{col:msx-white}Цифровая медиа платформа XSMART — это интернет каталог в виде приложения, где собрана информация о фильмах и сериалах, актерах и режиссерах. Вся информация в каталоге взята из открытых источников и предоставляются исключительно в ознакомительных целях.",
-               "image": "https://malkowilya.github.io/msx/xsmart/capture.gif"
+               "image": "https://malkowilya.github.io/xsmart/capture.gif"
             }
          },
          "image": "https://github.com/wals09/msx/blob/main/logo/xsmart.png?raw=true",
@@ -644,8 +644,8 @@
                "text": "{col:msx-white}Смотрим мультфильмы онлайн. Коллекция мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!"
             }
          },
-         "image": "https://malkowilya.github.io/msx/multiki/logo.png",
-         "action": "content:https://malkowilya.github.io/msx/welcome.json",
+         "image": "https://malkowilya.github.io/multiki/logo.png",
+         "action": "content:https://malkowilya.github.io/welcome.json",
          "properties": {
             "image:extension": "| {col:msx-white}19th Item"
          }
@@ -661,7 +661,7 @@
             }
          },
          "image": "https://yt3.ggpht.com/ytc/AKedOLTnnv0Gw8nYogetKuQl-M437g5e8XuxgPoKe1pV=s900-c-k-c0x00ffffff-no-rj",
-         "action": "content: https://malkowilya.github.io/msx/bonus/relax.json",
+         "action": "content: https://malkowilya.github.io/bonus/relax.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -678,7 +678,7 @@
             }
          },
          "image": "https://www.pngitem.com/pimgs/m/112-1122080_futbol-png-image-vector-clipart-psd-png.png",
-         "action": "content: https://malkowilya.github.io/msx/bonus/sport.json",
+         "action": "content: https://malkowilya.github.io/bonus/sport.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}Sixth Item"
@@ -697,7 +697,7 @@
                "text": " Альтернативные MSX магазины|лаунчеры"
             }
          },
-         "action": "content:https://malkowilya.github.io/msx/alterstore/alterstore.json",
+         "action": "content:https://malkowilya.github.io/alterstore/alterstore.json",
          "properties": {
             "trigger:back": "player:stop",
             "image:extension": "| {col:msx-white}26th Item"

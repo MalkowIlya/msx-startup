@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "pages": [
       {

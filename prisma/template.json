@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "Prisma TV",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
@@ -50,17 +50,17 @@
    "items": [
       {
          "badge": "Prisma TV {col:red}(ws)",
-         "image": "https://malkowilya.github.io/msx/logon/prisma.png",
+         "image": "https://malkowilya.github.io/logon/prisma.png",
          "action": "link: http://prisma.ws"
       },
       {
          "badge": "Prisma TV{col:red}(kim)",
-         "image": "https://malkowilya.github.io/msx/logon/prisma.png",
+         "image": "https://malkowilya.github.io/logon/prisma.png",
          "action": "link: http://prisma.kim"
       },
       {
          "badge": "PrismaTV{col:red}(cam)",
-         "image": "https://malkowilya.github.io/msx/logon/prisma.png",
+         "image": "https://malkowilya.github.io/logon/prisma.png",
          "action": "link: http://pris.cam"
       }
    ]

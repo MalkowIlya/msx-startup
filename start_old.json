@@ -7,7 +7,7 @@
    "version": "2.1.0",
    "parameter": "content:https://raw.githubusercontent.com/wals09/msx/main/start.json",
    "action": "[settings:validate_links:0|home]",
-   "dictionary": "https://malkowilya.github.io/msx/dictionary.json",
+   "dictionary": "https://malkowilya.github.io/dictionary.json",
    "launcher": {
       "image": "https://raw.githubusercontent.com/wals09/msx/main/img/wals.png"
    },
@@ -59,10 +59,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:white}<< G O L D >>{col}{br}{col:msx-white}Тема оформления в золотых тонах",
-               "image": "https://malkowilya.github.io/msx/tema/gold.png"
+               "image": "https://malkowilya.github.io/tema/gold.png"
             }
          },
-         "action": "content:https://malkowilya.github.io/msx/menu-gold.json"
+         "action": "content:https://malkowilya.github.io/menu-gold.json"
       },
       {
          "titleHeader": "",
@@ -74,10 +74,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:white}<< B L A C K >>{col}{br}{col:msx-white}Темная тема оформления",
-               "image": "https://malkowilya.github.io/msx/tema/black.png"
+               "image": "https://malkowilya.github.io/tema/black.png"
             }
          },
-         "action": "content:https://malkowilya.github.io/msx/menu-black.json"
+         "action": "content:https://malkowilya.github.io/menu-black.json"
       },
       {
          "titleHeader": "",
@@ -89,10 +89,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:white}<< B L U E >>{col}{br}{col:msx-white}Тема оформления в сине-голубых тонах",
-               "image": "https://malkowilya.github.io/msx/tema/blue.png"
+               "image": "https://malkowilya.github.io/tema/blue.png"
             }
          },
-         "action": "content:https://malkowilya.github.io/msx/menu-blue.json"
+         "action": "content:https://malkowilya.github.io/menu-blue.json"
       },
       {
          "titleHeader": "{col:msx-white}DRM-play",
@@ -103,10 +103,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}DRM-play{col}{br}{col:black}IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. Тестовый плейлист для ознакомления с функциями плеера.",
-               "image": "https://malkowilya.github.io/msx/drm/capture.jpg"
+               "image": "https://malkowilya.github.io/drm/capture.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/drm/logo.png",
+         "image": "https://malkowilya.github.io/drm/logo.png",
          "action": "link:http://ott.drm-play.com"
       },
       {
@@ -117,10 +117,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}OTT-FOSS{col}{br}{col:black}IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки.",
-               "image": "https://malkowilya.github.io/msx/foss/capture.jpg"
+               "image": "https://malkowilya.github.io/foss/capture.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/foss/icon.png",
+         "image": "https://malkowilya.github.io/foss/icon.png",
          "action": "link:http://ott.prog4food.eu.org/f/"
       },
       {
@@ -131,10 +131,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}OTT-PLAY{col}{br}{col:black}IPTV player. Возможность просмотра своих плейлистов,сталкер-порталов,медиатек. Сохранение, перенос настроек",
-               "image": "https://malkowilya.github.io/msx/ott-play/111.png"
+               "image": "https://malkowilya.github.io/ott-play/111.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/ott-play/icon.png",
+         "image": "https://malkowilya.github.io/ott-play/icon.png",
          "action": "link:http://ott-play.com/f/"
       },
       {
@@ -145,10 +145,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}ICVA{col}{br}{col:black}IPTV player от разработчиков LAMPA. Возможность просмотра своих плейлистов.",
-               "image": "https://malkowilya.github.io/msx//icva/capture.jpg"
+               "image": "https://malkowilya.github.io//icva/capture.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/icva/logo.png",
+         "image": "https://malkowilya.github.io/icva/logo.png",
          "action": "link:http://icva.mx/"
       },
       {
@@ -159,10 +159,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}LAMPA{col}{br}{col:black}Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv",
-               "image": "https://malkowilya.github.io/msx/lampa/capture3.gif"
+               "image": "https://malkowilya.github.io/lampa/capture3.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/lampa/logo.png",
+         "image": "https://malkowilya.github.io/lampa/logo.png",
          "action": "link:http://lampa.mx"
       },
       {
@@ -173,10 +173,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}VoKINO{col}{br}{col:black}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
-               "image": "https://malkowilya.github.io/msx/vokino/capture.gif"
+               "image": "https://malkowilya.github.io/vokino/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/vokino/logo.png",
+         "image": "https://malkowilya.github.io/vokino/logo.png",
          "action": "link: http://web.vokino.tv/"
       },
       {
@@ -187,10 +187,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}ATODO{col}{br}{col:black}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
-               "image": "https://malkowilya.github.io/msx/atodo/capture.gif"
+               "image": "https://malkowilya.github.io/atodo/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/atodo/logo.png",
+         "image": "https://malkowilya.github.io/atodo/logo.png",
          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
       {
@@ -201,10 +201,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}ATODO{col}{br}{col:black}Web версия приложения ATODO. Просмотр различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов",
-               "image": "https://malkowilya.github.io/msx/atodo/capture.gif"
+               "image": "https://malkowilya.github.io/atodo/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/atodo/logo.png",
+         "image": "https://malkowilya.github.io/atodo/logo.png",
          "action": "link:http://msx.atodo.fun/"
       },
       {
@@ -215,10 +215,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}MOOVIES{col}{br}{col:black}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов, iptv, прослушивание радиостанций",
-               "image": "https://malkowilya.github.io/msx/moovies/capture.gif"
+               "image": "https://malkowilya.github.io/moovies/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/moovies/logo.png",
+         "image": "https://malkowilya.github.io/moovies/logo.png",
          "action": "menu:request:interaction:init@http://moovies.uz/index.html"
       },
       {
@@ -243,10 +243,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Forkplayer{col}{br}{col:black}Bеб-браузер, адаптированный для просмотра специальных интернет-страниц с автоматически обновляемыми плейлистами, предоставляет возможность прямо с браузера смотреть фильмы, ТВ-каналы, слушать музыку, радиостанции",
-               "image": "https://malkowilya.github.io/msx/fork/capture.gif"
+               "image": "https://malkowilya.github.io/fork/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/fork/logo.png",
+         "image": "https://malkowilya.github.io/fork/logo.png",
          "action": "link:http://browser.appfxml.com/"
       },
       {
@@ -257,10 +257,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}КИНОПОИСК{col}{br}{col:black}Oнлайн-кинотеатр с фильмами и сериалами по подписке Яндекс Плюс или за отдельную плату.",
-               "image": "https://malkowilya.github.io/msx/kinopoisk/screen.png"
+               "image": "https://malkowilya.github.io/kinopoisk/screen.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinopoisk/logo.png",
+         "image": "https://malkowilya.github.io/kinopoisk/logo.png",
          "action": "link:https://smarttv-app.ott.yandex.ru/"
       },
       {
@@ -271,10 +271,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}RUTUBE-WEB{col}{br}{col:black}Pоссийский онлайн-сервис для хостинга и просмотра видео",
-               "image": "https://malkowilya.github.io/msx/rutube/capture.jpg"
+               "image": "https://malkowilya.github.io/rutube/capture.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/rutube/logo.png",
+         "image": "https://malkowilya.github.io/rutube/logo.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
@@ -288,7 +288,7 @@
                "image": "https://github.com/wals09/msx/blob/main/smotrim/smotrim.gif?raw=true"
             }
          },
-         "image": "https://malkowilya.github.io/msx/smotrim/icon.png",
+         "image": "https://malkowilya.github.io/smotrim/icon.png",
          "action": "link:https://tv.smotrim.ru"
       },
       {
@@ -299,10 +299,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}YouTUBE{col}{br}{col:black}Oнлайн-сервис для хостинга и просмотра видео",
-               "image": "https://malkowilya.github.io/msx/youtube/capture.jpg"
+               "image": "https://malkowilya.github.io/youtube/capture.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/youtube/logo.png",
+         "image": "https://malkowilya.github.io/youtube/logo.png",
          "action": "link:https://www.youtube.com/tv#/"
       },
       {
@@ -313,10 +313,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}YOUTUBE KIDS{col}{br}{col:black}Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей.",
-               "image": "https://malkowilya.github.io/msx/youtube_kids/capture.gif"
+               "image": "https://malkowilya.github.io/youtube_kids/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx//youtube_kids/logo.png",
+         "image": "https://malkowilya.github.io//youtube_kids/logo.png",
          "action": "link:https://www.youtube.com/tv/kids"
       },
       {
@@ -330,8 +330,8 @@
                "image": "https://github.com/wals09/repo/blob/main/multiki/multiki.gif?raw=true"
             }
          },
-         "image": "https://malkowilya.github.io/msx/multiki/logo.png",
-         "action": "content:https://malkowilya.github.io/msx/welcome.json"
+         "image": "https://malkowilya.github.io/multiki/logo.png",
+         "action": "content:https://malkowilya.github.io/welcome.json"
       },
       {
          "titleHeader": "{col:msx-white}DEEPLEX",
@@ -341,10 +341,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}DEEPLEX{col}{br}{col:black}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов.",
-               "image": "https://malkowilya.github.io/msx//deeplex/Deeplex.jpg"
+               "image": "https://malkowilya.github.io//deeplex/Deeplex.jpg"
             }
          },
-         "image": "https://malkowilya.github.io/msx/deeplex/logo.png",
+         "image": "https://malkowilya.github.io/deeplex/logo.png",
          "action": "link:http://smart.deeplex.cc/"
       },
       {
@@ -355,10 +355,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}KinoPUB {col}{br}{col:black}Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме. Нужна регистрация и подписка",
-               "image": "https://malkowilya.github.io/msx//kinopub/screen.png"
+               "image": "https://malkowilya.github.io//kinopub/screen.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinopub/logo.png",
+         "image": "https://malkowilya.github.io/kinopub/logo.png",
          "action": "link:http://kpms.cc/bootstrap.html"
       },
       {
@@ -369,10 +369,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}X-SMART TV{col}{br}{col:black}Цифровая медиа платформа XSMART — это интернет каталог в виде приложения, где собрана информация о фильмах и сериалах, актерах и режиссерах. Вся информация в каталоге взята из открытых источников и предоставляются исключительно в ознакомительных целях.",
-               "image": "https://malkowilya.github.io/msx/xsmart/capture.gif"
+               "image": "https://malkowilya.github.io/xsmart/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/xsmart/logo.png",
+         "image": "https://malkowilya.github.io/xsmart/logo.png",
          "action": "link:http://app.xsmart.tv"
       },
       {
@@ -383,10 +383,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}IMPIRE BOOM{col}{br}{col:black}ИмперияBOOM представляет собой упорядоченные ссылки на медиа-контент: фильмы, сериалы, мультфильмы, IPTV, радио и т.п.",
-               "image": "https://malkowilya.github.io/msx/imboom/capture.png"
+               "image": "https://malkowilya.github.io/imboom/capture.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/imboom/logo.png",
+         "image": "https://malkowilya.github.io/imboom/logo.png",
          "action": "link:http://web.imboom.ru/"
       },
       {
@@ -397,10 +397,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}KINOBOOM{col}{br}{col:black}{ico:#ced6e0:arrow-right}Просмотр видео контента из многих источников{br}{ico:#ced6e0:arrow-right}Поиск контента (фильмы, сериалы, мультфильмы, аниме, тв-передачи).{br}{ico:#ced6e0:arrow-right}Выбора качества{br}{ico:#ced6e0:arrow-right}KBC каналы {br}{ico:#ced6e0:arrow-right}VIP подписка на три устройства ",
-               "image": "https://malkowilya.github.io/msx/kinoboom/capture.gif"
+               "image": "https://malkowilya.github.io/kinoboom/capture.gif"
             }
          },
-         "image": "https://malkowilya.github.io/msx/kinoboom/logo.png",
+         "image": "https://malkowilya.github.io/kinoboom/logo.png",
          "action": "execute:info:extended:http://kb-team.club/msx/enter.php"
       },
       {
@@ -453,11 +453,11 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Бонус контент{col}{br}{col:black}Медиа-контент из различных источников в интернете выложенный в свободный доступ {br}{col:yellow}Работает как работает!!!{br}Работает пока работает!!!",
-               "image": "https://malkowilya.github.io/msx/img/bonus.png"
+               "image": "https://malkowilya.github.io/img/bonus.png"
             }
          },
-         "image": "https://malkowilya.github.io/msx/img/bonus.png",
-         "action": "content: https://malkowilya.github.io/msx/test/category.json",
+         "image": "https://malkowilya.github.io/img/bonus.png",
+         "action": "content: https://malkowilya.github.io/test/category.json",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item",
             "trigger:back": "player:stop"
@@ -474,7 +474,7 @@
                "image": ""
             }
          },
-         "action": "content: https://malkowilya.github.io/msx/test/tv.json",
+         "action": "content: https://malkowilya.github.io/test/tv.json",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
